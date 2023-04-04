@@ -1,0 +1,3 @@
+1. The terminal reminds me of the brain of a computer. It allows you to access different places in your system and control your files. It allows you to control creating files and changing directories in your system. The terminal is used as best practice for github. The terminal helps you see what files are located in specific directories on your device.
+2. Git is a program that is free and owned by Linux it helps you keep track of your code. Github is a cloud based program that has specific pricing models.
+3. We use github to connect and collaborate with others as well as save our code and track it.
